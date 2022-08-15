@@ -51,7 +51,4 @@ src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo
 <br>
 <img alt="centered image" height="85" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg"/>
 <br>
-<img alt="README Update" 
-src="https://github.com/daskaarismatik/daskaarismatik/actions/workflows/readme_update.yaml/badge.svg" />
-<br>
 </p>
