@@ -20,17 +20,17 @@
 https://saynidas.blogspot.com/
 ## Contact Me
 <p align='center'>
-<a href="https://www.linkedin.com/in/saynidiallo/"><img height="30" src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png"></a>
-<a href="https://instagram.com/daskaarismatik"><img height="30" src="https://www.freeiconspng.com/uploads/new-instagram-icon-2.jpg">
-<a href="https://twitter.com/saynidiallo"><img height="30" src="https://www.freeiconspng.com/uploads/logo-twitter-icon-symbol-0.png"></a>
-<a href="https://t.me/s577b"><img height="30" src="https://www.freeiconspng.com/uploads/telegram-app-icon-2.png"/></a>
+<a href="https://www.linkedin.com/in/saynidiallo/" target="_blank"><img height="30" src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png"></a>
+<a href="https://instagram.com/daskaarismatik" target="_blank"><img height="30" src="https://www.freeiconspng.com/uploads/new-instagram-icon-2.jpg">
+<a href="https://twitter.com/saynidiallo" target="_blank"><img height="30" src="https://www.freeiconspng.com/uploads/logo-twitter-icon-symbol-0.png"></a>
+<a href="https://t.me/s577b" target="_blank"><img height="30" src="https://www.freeiconspng.com/uploads/telegram-app-icon-2.png"/></a>
 </p>
 
 <ul>
-<li><a href="https://linkedin.com/in/saynidiallo" rel="me">LinkedIn</a>
-<li><a href="https://www.instagram.com/daskaarismatik/" rel="me">Instagram</a>
-<li><a href="https://twitter.com/saynidiallo" rel="me">Twitter</a>
-<li><a href="https://t.me/s577b" rel="me">Telegram</a>
+<li><a href="https://linkedin.com/in/saynidiallo" rel="me" target="_blank">LinkedIn</a>
+<li><a href="https://www.instagram.com/daskaarismatik/" rel="me" target="_blank">Instagram</a>
+<li><a href="https://twitter.com/saynidiallo" rel="me" target="_blank">Twitter</a>
+<li><a href="https://t.me/s577b" rel="me" target="_blank">Telegram</a>
 </li>
 </ul>
 
