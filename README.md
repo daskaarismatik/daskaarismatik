@@ -54,4 +54,5 @@ src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo
 <img alt="README Update" 
 src="https://github.com/daskaarismatik/daskaarismatik/actions/workflows/readme_update.yaml/badge.svg" />
 <br>
+Last updated on: 2022-08-15 04:00 PM
 </p>
