@@ -21,15 +21,15 @@ https://saynidas.blogspot.com/
 ## Contact Me
 <p align='center'>
 <a href="https://www.linkedin.com/in/saynidiallo/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
-## <a href="https://instagram.com/daskaarismatik"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">
-## <a href="https://twitter.com/saynidas"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"></a>
+<a href="https://instagram.com/daskaarismatik"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">
+<a href="https://twitter.com/saynidas"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"></a>
 <a href="https://t.me/fran30"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"/></a>
 </p>
 
 <ul>
 <li><a href="https://linkedin.com/in/saynidiallo" rel="me">LinkedIn</a>
-## <li><a href="https://www.instagram.com/daskaarismatik/" rel="me">Instagram</a>
-## <li><a href="https://twitter.com/saynidas" rel="me">Twitter</a>
+<li><a href="https://www.instagram.com/daskaarismatik/" rel="me">Instagram</a>
+<li><a href="https://twitter.com/saynidas" rel="me">Twitter</a>
 <li><a href="https://t.me/fran30" rel="me">Telegram</a>
 </li>
 </ul>
