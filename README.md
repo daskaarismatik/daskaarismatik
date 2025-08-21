@@ -32,10 +32,14 @@ https://saynidas.blogspot.com/
 
 <ul>
 <li><a href="https://linkedin.com/in/saynidiallo" rel="me">LinkedIn</a>
-<li><a href="https://www.instagram.com" rel="me">Instagram</a>
-<li><a href="https://x.com/" rel="me">X</a>
-<li><a href="https://t.me/" rel="me">Telegram</a>
+
+[
+<li><a href="https://www.instagram.com/tbd" rel="me">Instagram</a>
+<li><a href="https://x.com/tbd" rel="me">X</a>
+<li><a href="https://t.me/tbd" rel="me">Telegram</a>
 </li>
+]: #
+
 </ul>
 
 </p>
