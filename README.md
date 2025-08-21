@@ -22,11 +22,11 @@ https://saynidas.blogspot.com/
 <p align='center'>
 <a href="https://www.linkedin.com/in/saynidiallo/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
 
-[
+<!-- 
  <a href="https://instagram.com"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">
 <a href="https://x.com"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"></a>
 <a href="https://t.me/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"/></a> 
-]: #
+-->
 
 </p>
 
