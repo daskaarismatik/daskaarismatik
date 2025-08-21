@@ -38,7 +38,7 @@ https://saynidas.blogspot.com/
 <li><a href="https://x.com/tbd" rel="me">X</a>
 <li><a href="https://t.me/tbd" rel="me">Telegram</a>
 </li>
-]: #
+]:#
 
 </ul>
 
