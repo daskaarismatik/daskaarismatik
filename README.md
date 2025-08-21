@@ -11,7 +11,7 @@
 
 - 🏢 I'm currently working at **Orange Guinea** 
 - 🌱 Learning all about **Networking and Security**
-- ⚙️ I work daily on: `Cisco`, `Fortigate`, `Juniper`, `F5 Big-IP`, `Linux`, `VMware`.
+- ⚙️ I work daily on: `Cisco`, `Fortigate`, 'Palo Alto and CheckPoint firewalls', `Juniper`, `F5 Big-IP`, `Linux`, `VMware`.
 - ❤️ Open Source Software, Cybersecurity and Monitoring
 - 💬 Ping me about **IT Support**, **Learning**, **Career opportunities**
 - ⚡ Fun fact: I'm a huge fan of documentaries
