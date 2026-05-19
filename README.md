@@ -56,7 +56,4 @@ src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo
 
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=daskaarismatik.daskaarismatik"/>
-<br>
-<img alt="centered image" height="85" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg"/>
-<br>
 </p>
