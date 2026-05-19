@@ -5,7 +5,7 @@
 ## About Me
 
 ### Hi there 👋
-### My name is Sayni DIALLO 🇬🇳
+### My name is Sayni D. 🇬🇳
 #### I'm a Network Security Engineer :computer:
 
 
@@ -17,10 +17,10 @@
 - ⚡ Fun fact: I'm a huge fan of documentaries
 
 ## My Blog
-https://saynidas.blogspot.com/
+
 ## Contact Me
 <p align='center'>
-<a href="https://www.linkedin.com/in/saynidiallo/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
+<a href="https://www.linkedin.com/in/sayni/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
 
 <!-- 
  <a href="https://instagram.com"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">
