@@ -5,11 +5,11 @@
 ## About Me
 
 ### Hi there 👋
-### My name is Sayni D. 🇬🇳
+### My name is Sayni D. 
 #### I'm a Network Security Engineer :computer:
 
 
-- 🏢 I'm currently working at **Orange Guinea** 
+- 🏢 I'm currently working at **Orange** 
 - 🌱 Learning all about **Networking and Security**
 - ⚙️ I work daily on: `Cisco`, `Fortigate`, `Palo Alto and CheckPoint firewalls`, `Juniper`, `F5 Big-IP`, `Linux`, `VMware`.
 - ❤️ Open Source Software, Cybersecurity and Monitoring
